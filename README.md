@@ -5,7 +5,7 @@ Aplikacjia Opcję:
 -możesz zmieniać tapety
 -pobierać nowe instalki
 
-Aplikacja jest lekka, nie wymaga konta ani internetu do podstawowych funkcji i instaluje się w kilka sekund.
+Aplikacja jest lekka, nie wymaga internetu do podstawowych funkcji i instaluje się w kilka sekund.
 
 ---
 
